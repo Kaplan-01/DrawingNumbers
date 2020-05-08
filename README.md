@@ -1,8 +1,8 @@
 # Painter
-** Deteccion de numero y arroja la confidencia. **
+**Deteccion de numero y arroja la confidencia.**
 
 >Muestra
 
-![Example]( "Painter")
+![Example](https://github.com/MariaDelCarmenHernandezDiaz/Painter/blob/master/7.jpg "Painter")
 
 ***
